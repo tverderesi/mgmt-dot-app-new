@@ -1,6 +1,6 @@
-# (new) Project.mgmt
+# (new) mgmt.app
 
-project.mgmt is a simplified project manager aimed at project and task management for single users. You can add your clients, projects, and tasks easily. It offers easy project and task tracking via a sleek widget interface. This is a reboot based upon the [original project](https://github.com/tverderesi/project-mgmt-app).
+mgmt.app is a simplified project manager aimed at project and task management for single users. You can add your clients, projects, and tasks easily. It offers easy project and task tracking via a sleek widget interface. This is a reboot based upon the [original project](https://github.com/tverderesi/project-mgmt-app).
 
 ## Why Reboot the Project?
 
@@ -46,31 +46,36 @@ The repository will contain a [Task List](https://github.com/tverderesi/mgmt-dot
 
 1. **Revision**
 
-   - Redefine MVP.
-   - Redraw entities.
-   - Replan features and check the progress in the old project.
-   - Recategorize features according to their proposed structure.
-   - Plan the implementation of incomplete features.
-   - Plan the implementation of new features.
+   - [ ] Redefine MVP.
+   - [ ] Redraw entities.
+   - [ ] Replan features and check the progress in the old project.
+   - [ ] Recategorize features according to their proposed structure.
+   - [ ] Plan the implementation of incomplete features.
+   - [ ] Plan the implementation of new features.
 
 2. **Scaffolding**
-   - Init each package.
-   - Decide testing, linting and building rules.
+
+   - [ ] Init each package.
+   - [ ] Decide testing, linting and building rules.
+   
 3. **Transferring**
 
-   - Port over each existing feature into its respective package app.
-   - Write tests for each feature.
+   - [ ] Port over each existing feature into its respective package app.
+   - [ ] Write tests for each feature.
 
 4. **Coding**
 
-   - Code and test incomplete features.
-   - Code and test new features.
+   - [ ] Code and test incomplete features.
+   - [ ] Code and test new features.
 
-5. Deployment
-   - Ensure correct deployment for the proposed structure.
-   - Find beta testers.
-6. Release
-   - Release MVP.
+5. **Deployment**
+   
+   - [ ] Ensure correct deployment for the proposed structure.
+   - [ ] Find beta testers.
+   
+6. **Release**
+   
+   - [ ] Release MVP.
 
 ### Proposed Iteration Cycle for Feature Development
 
